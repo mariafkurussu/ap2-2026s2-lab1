@@ -8,4 +8,5 @@ int main(){
     float minutos;
     minutos = (12 - hora)*60;
     printf("Desde o início do dia se passaram %.1f minutos", minutos);
+    return 0;
 }
